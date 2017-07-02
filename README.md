@@ -1,0 +1,2 @@
+# AuthenticationApp
+Log-in screen that fully authenticates users by email and password using Firebase.  If email and password are not already in user database, a new account will be created.  Demonstrates following competencies: Authentication Presenting different layouts depending on screen orientation  Preserving data between screen orientation changes Use of Activities and Fragments Use of Widgets and Views Understanding of Constraints Use of third party API Form validation (Client and Server-side) Toasts
